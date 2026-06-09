@@ -7,7 +7,7 @@ A data analytics project that scrapes, cleans, and analyzes customer reviews for
 [![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 
-**[Live Dashboard](https://public.tableau.com/app/profile/jayansh.jain)** · **[Scraper Script](etihad_scraper.py)** · **[Reviews Dataset](etihad_reviews.csv)**
+**[Live Dashboard](https://public.tableau.com/app/profile/jayansh.jain/viz/EtihadAirwaysReviewsAnalysis/EtihadReviewsDashboard?publish=yes)** · **[Scraper Script](etihad_scraper.py)** · **[Reviews Dataset](etihad_reviews.csv)**
 
 ---
 
